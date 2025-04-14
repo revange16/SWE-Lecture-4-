@@ -1,6 +1,10 @@
+#include <iostream>
+
 # SWE-Lecture-4-
 Create a C++ Application that prints Hello World
 
-Christian Miranda
-Antonio Gage
-Maleek Murphy
+int main() 
+{
+  std::cout << "Hello, world!" << std::endl;
+  return 0;
+}
