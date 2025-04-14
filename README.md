@@ -10,3 +10,4 @@ Donell Denson
 Maleek Murphy
 Dillon Touchard
 Tristin Sneary
+Chris Chapman
